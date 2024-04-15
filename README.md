@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook implementing Exploratory Data Analys
 
 ## Dataset
 
-The dataset used for this analysis is available in the file [dataset.csv](https://teams.microsoft.com/l/message/19:635a2b93-9297-451c-80d5-8062b3322013_9230c113-744a-425f-8a07-e771ec4f155f@unq.gbl.spaces/1712579962125?context=%7B%22contextType%22%3A%22chat%22%7D).
+The dataset used for this analysis is available in the file [dataset.csv](https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/iris.csv).
 
 ## Notebook
 
