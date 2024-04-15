@@ -10,7 +10,7 @@ The dataset used for this analysis is available in the file [dataset.csv](https:
 
 ## Notebook
 
-The notebook [Notebook.ipynb](https://github.com/SaxenaSim/ML_Task2/blob/main/Untitled.ipynb) includes the following sections:
+The notebook [random-forest.ipynb](https://github.com/SaxenaSim/ML_Task2/blob/main/random_forest.ipynb) includes the following sections:
 
 1. **Exploratory Data Analysis (EDA)**: Visualizing and understanding the dataset using PySpark.
 2. **Pre-processing**: Cleaning the data, handling missing values, encoding categorical variables, and preparing features for model training.
